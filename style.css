@@ -5,6 +5,10 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.container-main{
+	margin: auto;
+}
+
 img {
     width: auto;
 }
