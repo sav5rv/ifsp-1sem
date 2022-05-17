@@ -1,8 +1,14 @@
 body {
     /* border: 2px solid #841562; */
     /* background : rgba(213, 241, 112, 0.137); */
-    width: 1000px;
+   /* width: 1000px;*/
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container-main{
+	margin: auto;
+        max-width:1000px;
+        width: 80%;
 }
 
 img {
@@ -12,6 +18,7 @@ img {
 #header-0 {
     border: 1px solid;
     padding: 10px;
+    margin: auto;
     margin-top: 5px;
     background: azure;
     display: flex;
@@ -59,13 +66,14 @@ nav {
     border: 1px solid;
     background-color: azure;
     justify-content: space-around;
+    margin:auto;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 aside {
     border: 1px solid;
-    width: 1000px;
+   /* width: 1000px;*/
     height: 150px;
     background: azure;
     /* display: flex;
@@ -181,7 +189,7 @@ footer {
 }
 
 #footer-2 {
-    width: 978px;
+   /* width: 978px;*/
     display: flex;
     border: 1px solid;
     padding: 10px;
